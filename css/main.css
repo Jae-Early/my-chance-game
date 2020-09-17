@@ -1,2 +1,14 @@
 
 /*  Put your CSS Here */
+body{
+text-align: center;
+background-color: blue;
+color: lightgrey;
+}
+#click{
+margin-top: 35px;
+
+}
+.picture{
+    border: 2px solid darkblue;
+}
