@@ -26,7 +26,7 @@
      function randomAnswers(){
        let random = Answer[Math.floor(Math.random() * Answer.length)];
       document.body.append(random)      
-      setTimeout(function(){location.reload()}, 3000);
+      setTimeout(function(){location.reload()}, 5000);
      }
 
   
